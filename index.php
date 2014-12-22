@@ -30,11 +30,11 @@ h1, h2, h3, h4, h5, h6 {color: #29708f;font-family: "Ubuntu",Arial,Helvetica,san
 <table style="width: 100%;" border="0">
 <tbody>
 <tr>
-<td><img alt="Logo Geeknet" src="Images/logo_geeknet.png"><br>
+<td><img alt="Logo Geeknet" src="imagens/logo_geeknet.png"><br>
 </td>
 </tr>
 <tr>
-<td><img style="width: 700px; height: 139px;" alt="Image" src="Images/mundo_maos.gif"><br>
+<td><img style="width: 700px; height: 139px;" alt="Image" src="imagens/mundo_maos.gif"><br>
 </td>
 </tr>
 </tbody>
